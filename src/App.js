@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import ZenQuote from './ZenQuote';
+import ConsumeLess from './ConsumeLess'
 
 function App() {
   return (
     <div className="App">
-< ZenQuote />     
+< ConsumeLess />     
     </div>
   );
 }
