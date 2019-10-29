@@ -1,12 +1,14 @@
 import React from 'react';
 import './App.css';
 import ConsumeLess from './ConsumeLess'
+import Form from './Form'
 
 function App() {
   return (
     <div className="App">
-< ConsumeLess />     
-    </div>
+      < ConsumeLess />     
+        <Form/>
+      </div>
   );
 }
 
