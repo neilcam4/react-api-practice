@@ -16,6 +16,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.App-nav {
+  width:50%;
+  display:flex;
+  margin:1rem auto;
+  justify-content:space-around;
+  padding: 10%
+}
 
 .App-link {
   color: #09d3ac;
